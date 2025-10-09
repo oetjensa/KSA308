@@ -22,3 +22,8 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 - Open 'Anaconda Prompt' terminal, navigate to course folder and type
 
 conda env create -f env_KSA308.yml
+
+
+## Download data files
+
+**Link to repository**
