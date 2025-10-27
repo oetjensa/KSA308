@@ -1,0 +1,11 @@
+name: KSA308-env
+dependencies:
+  - gsw
+  - xarray
+  - cartopy
+  - ipykernel
+  - scipy
+  - cmocean
+  - matplotlib
+  - h5netcdf
+prefix: /home/aoetjens/miniconda3/envs/KSA308-env
